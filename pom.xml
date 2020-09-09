@@ -60,7 +60,7 @@
                     <plugin>
                         <groupId>org.apache.maven.plugins</groupId>
                         <artifactId>maven-war-plugin</artifactId>
-                        <version>${version.war.plugin}</version>
+                        <version>2.1.1</version>
                         <configuration>
                             <warName>ROOT</warName>
                         </configuration>
