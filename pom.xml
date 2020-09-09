@@ -7,6 +7,14 @@
     <groupId>org.example</groupId>
     <artifactId>rsdemo</artifactId>
     <version>1.0</version>
+    <packaging>war</packaging>
+    <name>Mark Eastman: helloworld-rs</name>
+    <description>A simple Hello World project that uses JAX-RS</description>
+
+    <properties>
+        <maven.compiler.source>1.8</maven.compiler.source>
+        <maven.compiler.target>1.8</maven.compiler.target>
+    </properties>
 
     <dependencyManagement>
         <dependencies>
