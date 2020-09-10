@@ -7,7 +7,7 @@
         <packaging>war</packaging>
       </options>
     </properties>
-    <root id="archive" name="rsdemo-1.0.war">
+    <root id="archive" name="eap-xp-demo.war">
       <element id="artifact" artifact-name="rsdemo:war exploded" />
     </root>
   </artifact>
